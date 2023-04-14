@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/test-it-bootcamp-deploy/static/css/main.d9128cde.css",
+    "main.js": "/test-it-bootcamp-deploy/static/js/main.f2fba32d.js",
+    "static/js/787.d8766870.chunk.js": "/test-it-bootcamp-deploy/static/js/787.d8766870.chunk.js",
+    "static/media/abyss.jpg": "/test-it-bootcamp-deploy/static/media/abyss.93d211d37b67a60bace9.jpg",
+    "static/media/error.gif": "/test-it-bootcamp-deploy/static/media/error.42292aa12b6bc303ce99.gif",
+    "static/media/up-arrow-button.svg": "/test-it-bootcamp-deploy/static/media/up-arrow-button.10c8cfa8eef1f4bfb476ada9ae581d4a.svg",
+    "static/media/close-button.svg": "/test-it-bootcamp-deploy/static/media/close-button.c6b14701bce621ebe3ef316c8434b872.svg",
+    "index.html": "/test-it-bootcamp-deploy/index.html",
+    "main.d9128cde.css.map": "/test-it-bootcamp-deploy/static/css/main.d9128cde.css.map",
+    "main.f2fba32d.js.map": "/test-it-bootcamp-deploy/static/js/main.f2fba32d.js.map",
+    "787.d8766870.chunk.js.map": "/test-it-bootcamp-deploy/static/js/787.d8766870.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9128cde.css",
+    "static/js/main.f2fba32d.js"
+  ]
+}
